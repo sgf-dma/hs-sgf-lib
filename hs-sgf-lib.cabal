@@ -1,4 +1,4 @@
-name:               sgf-lib
+name:               hs-sgf-lib
 -- The package version.  See the Haskell package versioning policy (PVP) 
 -- for standards guiding when and how versions should be incremented.
 -- http://www.haskell.org/haskellwiki/Package_versioning_policy
