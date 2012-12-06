@@ -1,4 +1,4 @@
-name:               sgf-lib
+name:               hs-sgf-lib
 -- The package version.  See the Haskell package versioning policy (PVP) 
 -- for standards guiding when and how versions should be incremented.
 -- http://www.haskell.org/haskellwiki/Package_versioning_policy
@@ -42,7 +42,7 @@ library
 test-suite testSgfList
     type:               exitcode-stdio-1.0
     main-is:            testSgfList.hs
-    build-depends:      base == 4.5.*, sgf-lib == 1.9.*
+    build-depends:      base == 4.5.*, hs-sgf-lib == 1.9.*
     hs-source-dirs:     tests
     ghc-options:        -Wall
 
