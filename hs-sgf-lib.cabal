@@ -23,10 +23,8 @@ synopsis:           Sgf's haskell library.
 -- description:         
 tested-with:        GHC == 7.4.1
 
-data-files:         README
-extra-source-files: .gitignore
-                    tests/words/*.txt
-extra-tmp-files:    bin
+extra-source-files: README
+                    .gitignore
 
 
 library
